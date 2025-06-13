@@ -183,7 +183,7 @@ You can input your a3m format MSA file. For multimer predictions, the a3m file s
 
 These flags are useful for the predictions.
 
-- **`--amber`** : Use amber for structure refinement (relaxation / energy minimization). To control number of top ranked structures are relaxed set `--num-relax`.
+- **`--amber`** : Use amber for structure refinement (relaxation / energy minimization). To control number of top ranked structures are relaxed set `--num-relax`.w
 - **`--templates`** : Use templates from pdb.
 - **`--use-gpu-relax`** : Run amber on NVidia GPU instead of CPU. This feature is only available on a machine with Nvidia GPUs.
 - **`--num-recycle <int>`** : Number of prediction recycles. Increasing recycles can improve the quality but slows down the prediction. Default is `3`. (e.g. `--num-recycle 10`)
