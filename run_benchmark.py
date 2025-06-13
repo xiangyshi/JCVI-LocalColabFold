@@ -19,6 +19,7 @@ def run_benchmark(test_num, mode):
         sys.exit(1)
 
 if __name__ == "__main__":
-    for i in range(2):
-        print(f"Running benchmark {i+1} of 2")
-        run_benchmark("5", 'gpu') 
+    for i in range(10):
+        print(f"Running benchmark {i+1} of 10")
+        run_benchmark("6", 'cpu') 
+        run_benchmark("7", 'cpu') 
