@@ -1,0 +1,13 @@
+2025-06-14 10:29:14,658 Running colabfold 1.5.5 (64c8b2fe2ecf3199bc2d3c60b5da4b929a41086e)
+2025-06-14 10:29:15,921 Running on GPU
+2025-06-14 10:29:18,540 Found 5 citations for tools or databases
+2025-06-14 10:29:18,540 Query 1/1: Zinc_Finger_89aa (length 68)
+2025-06-14 10:29:19,368 Setting max_seq=2, max_extra_seq=1
+2025-06-14 10:30:16,474 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=65.7 pTM=0.131
+2025-06-14 10:30:16,602 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=65.9 pTM=0.134 tol=6.52
+2025-06-14 10:30:16,726 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=66.7 pTM=0.133 tol=3.08
+2025-06-14 10:30:16,852 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=67 pTM=0.136 tol=2.8
+2025-06-14 10:30:16,853 alphafold2_ptm_model_1_seed_000 took 42.6s (3 recycles)
+2025-06-14 10:30:16,865 reranking models by 'plddt' metric
+2025-06-14 10:30:16,865 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=67 pTM=0.136
+2025-06-14 10:30:17,112 Done

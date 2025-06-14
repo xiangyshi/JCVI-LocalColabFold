@@ -63,7 +63,7 @@ protein_length() {
 init_csv
 
 # Clean up previous results
-rm -rf "$RESULTS_ROOT"/*
+# rm -rf "$RESULTS_ROOT"/*
 
 # Set output directory
 OUTDIR="$RESULTS_ROOT/test${TEST_NUM}_${MODE}"

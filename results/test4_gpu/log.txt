@@ -1,0 +1,13 @@
+2025-06-14 10:31:05,687 Running colabfold 1.5.5 (64c8b2fe2ecf3199bc2d3c60b5da4b929a41086e)
+2025-06-14 10:31:08,296 Running on GPU
+2025-06-14 10:31:11,356 Found 5 citations for tools or databases
+2025-06-14 10:31:11,356 Query 1/1: GFP_Fragment_132aa (length 82)
+2025-06-14 10:31:12,405 Setting max_seq=512, max_extra_seq=411
+2025-06-14 10:32:26,585 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=86.4 pTM=0.694
+2025-06-14 10:32:27,427 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=88.6 pTM=0.724 tol=0.543
+2025-06-14 10:32:28,268 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=89.4 pTM=0.729 tol=0.328
+2025-06-14 10:32:29,109 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=89.7 pTM=0.732 tol=0.238
+2025-06-14 10:32:29,110 alphafold2_ptm_model_1_seed_000 took 60.6s (3 recycles)
+2025-06-14 10:32:29,123 reranking models by 'plddt' metric
+2025-06-14 10:32:29,123 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=89.7 pTM=0.732
+2025-06-14 10:32:29,370 Done

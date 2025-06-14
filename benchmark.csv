@@ -138,3 +138,16 @@ timestamp,file,mode,aa_length,duration_seconds,exit_code,output_dir1749762020,te
 1749843810,test_inputs/test7.fasta,GPU,886,236,0,results_benchmark/test7_gpu
 1749844046,test_inputs/test6.fasta,GPU,911,246,0,results_benchmark/test6_gpu
 1749844293,test_inputs/test7.fasta,GPU,886,231,0,results_benchmark/test7_gpu
+1749844920,test_inputs/test6.fasta,CPU,911,8200,0,results_benchmark/test6_cpu
+1749853120,test_inputs/test7.fasta,CPU,886,10004,0,results_benchmark/test7_cpu
+1749863124,test_inputs/test6.fasta,CPU,911,9771,0,results_benchmark/test6_cpu
+1749872895,test_inputs/test7.fasta,CPU,886,18864,0,results_benchmark/test7_cpu
+1749891759,test_inputs/test6.fasta,CPU,911,8328,0,results_benchmark/test6_cpu
+1749900087,test_inputs/test7.fasta,CPU,886,8790,0,results_benchmark/test7_cpu
+1749921859,test_inputs/test1.fasta,GPU,29,137,0,results_benchmark/test1_gpu
+1749921996,test_inputs/test2.fasta,GPU,48,116,0,results_benchmark/test2_gpu
+1749922112,test_inputs/test3.fasta,GPU,68,107,0,results_benchmark/test3_gpu
+1749922220,test_inputs/test4.fasta,GPU,83,131,0,results_benchmark/test4_gpu
+1749922351,test_inputs/test5.fasta,GPU,179,124,0,results_benchmark/test5_gpu
+1749922475,test_inputs/test6.fasta,GPU,911,257,0,results_benchmark/test6_gpu
+1749922732,test_inputs/test7.fasta,GPU,886,250,0,results_benchmark/test7_gpu

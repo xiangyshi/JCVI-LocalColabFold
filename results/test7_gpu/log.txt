@@ -1,0 +1,13 @@
+2025-06-14 10:39:35,896 Running colabfold 1.5.5 (64c8b2fe2ecf3199bc2d3c60b5da4b929a41086e)
+2025-06-14 10:39:38,063 Running on GPU
+2025-06-14 10:39:40,700 Found 5 citations for tools or databases
+2025-06-14 10:39:40,700 Query 1/1: 1.A.2.2.6-GAQ77942 (length 886)
+2025-06-14 10:39:41,757 Setting max_seq=214, max_extra_seq=1
+2025-06-14 10:41:40,763 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=47.5 pTM=0.413
+2025-06-14 10:42:06,555 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=48 pTM=0.443 tol=14.3
+2025-06-14 10:42:32,890 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=48.2 pTM=0.44 tol=7.12
+2025-06-14 10:42:58,636 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=48.1 pTM=0.441 tol=4.47
+2025-06-14 10:42:58,639 alphafold2_ptm_model_1_seed_000 took 173.9s (3 recycles)
+2025-06-14 10:42:59,030 reranking models by 'plddt' metric
+2025-06-14 10:42:59,030 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=48.1 pTM=0.441
+2025-06-14 10:42:59,538 Done

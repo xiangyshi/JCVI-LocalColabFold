@@ -1,0 +1,30 @@
+2025-06-14 10:35:18,426 Running colabfold 1.5.5 (64c8b2fe2ecf3199bc2d3c60b5da4b929a41086e)
+2025-06-14 10:35:20,545 Running on GPU
+2025-06-14 10:35:23,074 Found 5 citations for tools or databases
+2025-06-14 10:35:23,075 Query 1/3: 1.A.2.2.3-Q7NZ13 (length 296)
+2025-06-14 10:35:54,034 Padding length to 306
+2025-06-14 10:36:58,942 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=85.2 pTM=0.662
+2025-06-14 10:37:03,646 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=85.6 pTM=0.678 tol=0.534
+2025-06-14 10:37:08,344 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=85.5 pTM=0.68 tol=0.299
+2025-06-14 10:37:13,049 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=86.2 pTM=0.69 tol=0.213
+2025-06-14 10:37:13,050 alphafold2_ptm_model_1_seed_000 took 79.0s (3 recycles)
+2025-06-14 10:37:13,106 reranking models by 'plddt' metric
+2025-06-14 10:37:13,106 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=86.2 pTM=0.69
+2025-06-14 10:37:13,407 Query 2/3: 1.A.2.2.2-D9N164 (length 301)
+2025-06-14 10:37:17,777 Padding length to 306
+2025-06-14 10:37:22,778 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=87 pTM=0.707
+2025-06-14 10:37:27,461 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=86.4 pTM=0.712 tol=0.65
+2025-06-14 10:37:32,107 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=86.6 pTM=0.712 tol=0.25
+2025-06-14 10:37:36,791 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=86.7 pTM=0.715 tol=0.155
+2025-06-14 10:37:36,792 alphafold2_ptm_model_1_seed_000 took 19.0s (3 recycles)
+2025-06-14 10:37:36,845 reranking models by 'plddt' metric
+2025-06-14 10:37:36,846 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=86.7 pTM=0.715
+2025-06-14 10:37:37,150 Query 3/3: 1.A.2.2.4-Q6ZEQ2 (length 312)
+2025-06-14 10:38:35,921 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=79.3 pTM=0.623
+2025-06-14 10:38:40,477 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=80.4 pTM=0.643 tol=3.18
+2025-06-14 10:38:45,028 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=80.7 pTM=0.643 tol=0.455
+2025-06-14 10:38:49,580 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=80.9 pTM=0.646 tol=0.412
+2025-06-14 10:38:49,581 alphafold2_ptm_model_1_seed_000 took 68.4s (3 recycles)
+2025-06-14 10:38:49,639 reranking models by 'plddt' metric
+2025-06-14 10:38:49,639 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=80.9 pTM=0.646
+2025-06-14 10:38:49,942 Done

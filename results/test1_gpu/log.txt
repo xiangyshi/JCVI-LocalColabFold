@@ -1,0 +1,13 @@
+2025-06-14 10:25:03,201 Running colabfold 1.5.5 (64c8b2fe2ecf3199bc2d3c60b5da4b929a41086e)
+2025-06-14 10:25:05,620 Running on GPU
+2025-06-14 10:25:10,355 Found 5 citations for tools or databases
+2025-06-14 10:25:10,355 Query 1/1: Short_Peptide_29aa (length 29)
+2025-06-14 10:25:11,228 Setting max_seq=226, max_extra_seq=1
+2025-06-14 10:26:30,146 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=67.8 pTM=0.134
+2025-06-14 10:26:30,326 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=69.8 pTM=0.146 tol=1.35
+2025-06-14 10:26:30,507 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=71.2 pTM=0.154 tol=1.16
+2025-06-14 10:26:30,685 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=70.8 pTM=0.159 tol=0.439
+2025-06-14 10:26:30,687 alphafold2_ptm_model_1_seed_000 took 53.8s (3 recycles)
+2025-06-14 10:26:30,697 reranking models by 'plddt' metric
+2025-06-14 10:26:30,697 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=70.8 pTM=0.159
+2025-06-14 10:26:30,922 Done

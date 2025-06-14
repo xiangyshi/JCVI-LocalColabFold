@@ -1,0 +1,13 @@
+2025-06-14 10:33:13,610 Running colabfold 1.5.5 (64c8b2fe2ecf3199bc2d3c60b5da4b929a41086e)
+2025-06-14 10:33:15,773 Running on GPU
+2025-06-14 10:33:18,340 Found 5 citations for tools or databases
+2025-06-14 10:33:18,341 Query 1/1: Hypothetical_Protein_198aa (length 178)
+2025-06-14 10:33:19,207 Setting max_seq=2, max_extra_seq=1
+2025-06-14 10:34:30,834 alphafold2_ptm_model_1_seed_000 recycle=0 pLDDT=41.5 pTM=0.199
+2025-06-14 10:34:31,379 alphafold2_ptm_model_1_seed_000 recycle=1 pLDDT=39.9 pTM=0.206 tol=5.88
+2025-06-14 10:34:31,925 alphafold2_ptm_model_1_seed_000 recycle=2 pLDDT=40.3 pTM=0.207 tol=2.05
+2025-06-14 10:34:32,467 alphafold2_ptm_model_1_seed_000 recycle=3 pLDDT=40.4 pTM=0.208 tol=3.62
+2025-06-14 10:34:32,468 alphafold2_ptm_model_1_seed_000 took 50.9s (3 recycles)
+2025-06-14 10:34:32,496 reranking models by 'plddt' metric
+2025-06-14 10:34:32,496 rank_001_alphafold2_ptm_model_1_seed_000 pLDDT=40.4 pTM=0.208
+2025-06-14 10:34:32,777 Done
